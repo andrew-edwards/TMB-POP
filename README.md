@@ -22,6 +22,8 @@ If you want to add to this repository please **fork** (on GitHub) and then **clo
 
 ## Directory structure
 
+**POP-code/** - contains the original code from William, his report **POPreport.pdf**, and any adaptions/tests that we do. 
+
 **POP-code/orig-code/** the original code from William - do not edit this code (so that we always have the original version available). Includes his original ```.zip``` file.
 
 **POP-code/extend-code/** the original code from William to be edited and tested as necessary.
