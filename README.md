@@ -3,7 +3,7 @@ Template Model Builder Code for Pacific Ocean Perch
 
 ## Background
 
-This is initially the TMB and R code that William Aeberhard wrote (as a contract) based on the equations from our [Pacific Ocean Perch stock assessment for the west coast of Vancouver Island](http://www.dfo-mpo.gc.ca/Csas-sccs/publications/resdocs-docrech/2013/2013_093-eng.pdf). 
+This is initially the TMB and R code that William Aeberhard wrote (as a contract) based on the equations from our [Pacific Ocean Perch stock assessment for the west coast of Vancouver Island](http://waves-vagues.dfo-mpo.gc.ca/Library/361330.pdf). 
 
 Initially this is to easily share with fellow Pacific participants of the TMB course in Halifax, lest they go their own way and spend time starting from scratch. I ran this code on Friday in the workshop and it worked fine and was very fast. It will be a good starting point for future assessments.
 
