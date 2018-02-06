@@ -19,7 +19,7 @@ An ideal plan would be something like
 
 Thinking and discussing this stuff before starting will help a lot. 
 
-If you want to add to this repository please **fork** (on GitHub) and then **clone** to your machine.
+If you want to contribute to this repository (in a way that may help us) then please **fork** (on GitHub) and then **clone** to your machine. If you don't know what that means, or you just want to take the code and use it yourself (i.e. you may make changes but don't anticipate they will be useful for anyone else), then you can just download the repository (see the green 'Clone or download' button and download the .zip file).  Ideally I think we'd want to keep this repository fairly 'clean', in that changes are expected to be shared and merged into the main repository.
 
 ## Directory structure
 
